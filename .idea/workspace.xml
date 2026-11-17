@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e864d4e1-5e45-418b-b198-ee15a3802787" name="Changes" comment="" />
+    <list default="true" id="e864d4e1-5e45-418b-b198-ee15a3802787" name="Changes" comment="Controller changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,14 +15,31 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Elamathi1001"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Elamathi1001/Ecommerce.git",
+    "accountId": "bf93018d-4f5d-4a55-8683-51107738c5ee"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -30,61 +49,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000019552497" />
-      <entry key="MS500" value="1.0181234321544534" />
-      <entry key="S2" value="1.3705361832941183" />
-      <entry key="S5" value="1.824841899820247" />
-      <entry key="S10" value="2.3724629801487804" />
-      <entry key="S30" value="3.2390527055213227" />
-      <entry key="S60" value="3.657179545107078" />
-      <entry key="M2" value="4.54302119602882" />
-      <entry key="M5" value="8.384155949683421" />
-      <entry key="M10" value="13.684499280684483" />
-      <entry key="M15" value="17.281773945277475" />
-      <entry key="M30" value="23.0431894790229" />
-      <entry key="H1" value="27.298812483171442" />
-      <entry key="H2" value="29.934250157980316" />
-      <entry key="H4" value="31.40820588429058" />
-      <entry key="D1" value="32.72603701296541" />
-      <entry key="W1" value="32.960643649929736" />
+      <entry key="MS100" value="1.0040160715912125" />
+      <entry key="MS500" value="1.353414282269201" />
+      <entry key="S2" value="2.3704207278038476" />
+      <entry key="S5" value="3.1346506946440393" />
+      <entry key="S10" value="3.55028579660728" />
+      <entry key="S30" value="5.019620951385421" />
+      <entry key="S60" value="6.978424128349355" />
+      <entry key="M2" value="9.100885990899744" />
+      <entry key="M5" value="12.749069438011245" />
+      <entry key="M10" value="17.106849254974904" />
+      <entry key="M15" value="20.125543947322033" />
+      <entry key="M30" value="25.009688495712904" />
+      <entry key="H1" value="30.543942346664643" />
+      <entry key="H2" value="42.826280116095226" />
+      <entry key="H4" value="61.4228074496181" />
+      <entry key="D1" value="94.88955689228645" />
+      <entry key="W1" value="103.46413673604812" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.9557451200162876E-104" />
-      <entry key="S5" value="3.874956164842496E-42" />
-      <entry key="S10" value="1.9686425452776867E-21" />
-      <entry key="S30" value="1.3366796183079328E-7" />
-      <entry key="S60" value="4.829269654613037E-4" />
-      <entry key="M2" value="0.03486444534796808" />
-      <entry key="M5" value="0.49431608890388073" />
-      <entry key="M10" value="1.213624331465648" />
-      <entry key="M15" value="1.639737645216317" />
-      <entry key="M30" value="2.2171162131023356" />
-      <entry key="H1" value="2.5787863544442224" />
-      <entry key="H2" value="2.7813681703784985" />
-      <entry key="H4" value="2.888600060201613" />
-      <entry key="D1" value="2.981137046787361" />
-      <entry key="W1" value="2.9972979451327015" />
+      <entry key="MS100" value="5.387948650638653E-254" />
+      <entry key="MS500" value="2.219650973183375E-51" />
+      <entry key="S2" value="2.173042926418232E-13" />
+      <entry key="S5" value="9.175639183522875E-6" />
+      <entry key="S10" value="0.00369002467645569" />
+      <entry key="S30" value="0.23428237926984993" />
+      <entry key="S60" value="0.6814400236749519" />
+      <entry key="M2" value="1.2137551680121825" />
+      <entry key="M5" value="2.0932703795495837" />
+      <entry key="M10" value="2.917900443507679" />
+      <entry key="M15" value="3.388120819188055" />
+      <entry key="M30" value="4.047674416242294" />
+      <entry key="H1" value="4.553402029345094" />
+      <entry key="H2" value="5.205631786993554" />
+      <entry key="H4" value="6.059686105491768" />
+      <entry key="D1" value="7.551343207172593" />
+      <entry key="W1" value="7.931853828090642" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8179020602248952" />
-      <entry key="MS500" value="0.9781495499890083" />
-      <entry key="S2" value="1.3575875575180003" />
-      <entry key="S5" value="1.818113346539811" />
-      <entry key="S10" value="2.368120352016387" />
-      <entry key="S30" value="3.237082862519555" />
-      <entry key="S60" value="3.6564420336018926" />
-      <entry key="M2" value="4.574915444084724" />
-      <entry key="M5" value="8.866823724928372" />
-      <entry key="M10" value="14.884444549109372" />
-      <entry key="M15" value="18.909265288096087" />
-      <entry key="M30" value="25.252011032173577" />
-      <entry key="H1" value="29.872748496348084" />
-      <entry key="H2" value="32.71299140999645" />
-      <entry key="H4" value="34.2954382976239" />
-      <entry key="D1" value="35.70693824662452" />
-      <entry key="W1" value="35.95790770997613" />
+      <entry key="MS100" value="0.8988775441444348" />
+      <entry key="MS500" value="1.328214586427886" />
+      <entry key="S2" value="2.3601445367249383" />
+      <entry key="S5" value="3.129208269832714" />
+      <entry key="S10" value="3.5482884646222153" />
+      <entry key="S30" value="5.203245735902811" />
+      <entry key="S60" value="7.5875491721200214" />
+      <entry key="M2" value="10.250590606555782" />
+      <entry key="M5" value="14.798601128524362" />
+      <entry key="M10" value="19.993739834063422" />
+      <entry key="M15" value="23.48923576082942" />
+      <entry key="M30" value="29.04236725233179" />
+      <entry key="H1" value="35.088754495657575" />
+      <entry key="H2" value="48.02694696436298" />
+      <entry key="H4" value="67.47958584841099" />
+      <entry key="D1" value="102.44029305256402" />
+      <entry key="W1" value="111.39589939567915" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -116,7 +135,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature/ecommerce-first-branch",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
@@ -225,6 +244,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="store changes" />
+    <MESSAGE value="Controller changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Controller changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
